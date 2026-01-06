@@ -13,11 +13,8 @@ npm install
 
 ### 2. Configure Environment
 
-Copy and edit the `.env` file in the `scripts/` directory:
+Edit the `.env` file in the `scripts/` directory:
 
-```bash
-cp .env.example .env
-```
 
 Required variables:
 ```env
